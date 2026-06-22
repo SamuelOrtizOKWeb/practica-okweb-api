@@ -1,0 +1,2 @@
+0.1.0
+- 2026-06-22: Versión inicial con proyecto base, backend Django, app frontend y documentación de estructura.
